@@ -1,0 +1,33 @@
+[submodule "platform-windows"]
+	path = platform-windows
+	url = ../platform-windows
+[submodule "storage-windows"]
+	path = storage-windows
+	url = ../storage-windows
+[submodule "third-windows"]
+	path = third-windows
+	url = ../third-windows
+[submodule "storage-uwp"]
+	path = storage-uwp
+	url = ../storage-uwp
+[submodule "platform-uwp"]
+	path = platform-uwp
+	url = ../platform-uwp
+[submodule "third-uwp"]
+	path = third-uwp
+	url = ../third-uwp
+[submodule "tool-windows"]
+	path = tool-windows
+	url = ../tool-windows
+[submodule "platform-android"]
+	path = platform-android
+	url = ../platform-android
+[submodule "storage-android"]
+	path = storage-android
+	url = ../storage-android
+[submodule "seed-android"]
+	path = seed-android
+	url = ../seed-android
+[submodule "third-android"]
+	path = third-android
+	url = ../third-android
