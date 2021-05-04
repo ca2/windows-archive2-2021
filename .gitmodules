@@ -31,3 +31,6 @@
 [submodule "third-android"]
 	path = third-android
 	url = ../third-android
+[submodule "platform-windows_common"]
+	path = platform-windows_common
+	url = ../platform-windows_common
