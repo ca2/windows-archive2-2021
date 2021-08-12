@@ -34,3 +34,6 @@
 [submodule "platform-windows_common"]
 	path = platform-windows_common
 	url = ../platform-windows_common
+[submodule "platform-posix"]
+	path = platform-posix
+	url = ../platform-posix
