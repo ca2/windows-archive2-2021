@@ -7,15 +7,6 @@
 [submodule "third-windows"]
 	path = third-windows
 	url = ../third-windows
-[submodule "storage-universal_windows"]
-	path = storage-universal_windows
-	url = ../storage-universal_windows
-[submodule "platform-universal_windows"]
-	path = platform-universal_windows
-	url = ../platform-universal_windows
-[submodule "third-universal_windows"]
-	path = third-universal_windows
-	url = ../third-universal_windows
 [submodule "tool-windows"]
 	path = tool-windows
 	url = ../tool-windows
@@ -37,3 +28,12 @@
 [submodule "platform-posix"]
 	path = platform-posix
 	url = ../platform-posix
+[submodule "third-universal_windows"]
+	path = third-universal_windows
+	url = ../third-universal_windows
+[submodule "storage-universal_windows"]
+	path = storage-universal_windows
+	url = ../storage-universal_windows
+[submodule "platform-universal_windows"]
+	path = platform-universal_windows
+	url = ../platform-universal_windows
