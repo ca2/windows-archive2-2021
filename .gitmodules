@@ -8,11 +8,11 @@
 	path = third-windows
 	url = ../third-windows
 [submodule "storage-uwp"]
-	path = storage-uwp
-	url = ../storage-uwp
+	path = storage-universal_windows
+	url = ../storage-universal_windows
 [submodule "platform-uwp"]
-	path = platform-uwp
-	url = ../platform-uwp
+	path = platform-universal_windows
+	url = ../platform-universal_windows
 [submodule "third-uwp"]
 	path = third-uwp
 	url = ../third-uwp
